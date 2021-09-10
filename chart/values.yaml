@@ -36,6 +36,8 @@ nodeSelector: {}
 
 affinity: {}
 
+replicas: 1
+
 # Future: Toggles deployment of serviceMonitor + networkPolicy
 # Only toggles networkPolicy right now
 monitoring:
